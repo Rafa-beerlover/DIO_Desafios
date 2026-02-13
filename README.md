@@ -1,15 +1,33 @@
-# Projetos Dio _ Desafios EXCEL
+# Santander – Excel com Inteligência Artificial (DIO)
 
-## Criando uma Ferramenta de Controle de Investimentos com Excel.
-> O projeto consiste na criação de uma ferramenta simples em Excel para simular investimentos em fundos imobiliários.
+Este repositório reúne os desafios práticos realizados durante o bootcamp **Santander – Excel com Inteligência Artificial**, oferecido pela DIO.  
+A trilha tem foco no desenvolvimento de habilidades essenciais em Excel, organização de dados e uso de inteligência artificial para apoiar tarefas e análises.
 
-## Meu Trabalho: Plano de Investimentos em Rendas Fixas ou Variáveis.
-### Desenvolvida uma ferramenta para planejar e simular investimentos em diversos níveis de riscos, seja em renda fixa ou variável.
+## 🎓 Sobre o Bootcamp
 
-> A planilha contém uma tabela que possibilita simular de modo simples o rendimento baseado em uma taxa de rendimento parametrizado.
+O programa é composto por cursos, desafios de código e desafios de projeto, totalizando cerca de 26 horas de conteúdo.  
+Ele aborda desde fundamentos do Excel até a criação de planilhas mais estruturadas, uso de fórmulas e construção de dashboards.
 
-> Uma segunda tabela, mais complexa, permite planejar a reserva de uma parte de seu salário para diversos investimentos e parametrizar a valorização, e dividend Yield em rendas variáveis. Com isso, você obtém o resultado de seu planejamento em diversos períodos a médio e longo prazo.
+## 📘 Conteúdos estudados
 
-> A terceira tabela lhe permite configurar seu perfil como investidor e obter sugestão de como deve diversificar seu aporte em diferentes ativos de ações, fundos, ETFs, etc, de acordo com a classificação de risco.
+Os principais temas trabalhados ao longo da trilha incluem:
 
-> Por fim, 2 gráficos mostram de maneira simples seu ivestimento diversificado e o resultado de seu planejamento de modo resumido.
+- Conceitos básicos do Excel  
+- Manipulação de tabelas  
+- Fórmulas matemáticas  
+- Fórmulas de busca e texto  
+- Fórmulas de data e hora  
+- Lógica e pensamento computacional  
+- Criação de dashboards  
+- Aplicação de IA para apoiar análises e automações  
+
+## 🧩 Desafios de Projeto
+
+Durante o bootcamp, foram realizados desafios práticos para aplicar os conhecimentos adquiridos.  
+Cada desafio possui sua própria pasta neste repositório, contendo:
+
+- Arquivo Excel desenvolvido  
+- README explicando o objetivo e funcionamento da planilha  
+
+## 📂 Estrutura do Repositório
+
